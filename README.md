@@ -6,4 +6,5 @@
 🌠 I enjoy exploring new technologies and trying out different programming languages, so expect here to find a mix of personal projects, university assignments, and other experiments.
 <br>
 <br>
-🛰️ Learn more about me and my work at https://t7.lt
+<br>
+🛰️ Learn more about me and my work at <a href="https://t7.lt">t7.lt</a>
