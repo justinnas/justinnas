@@ -4,8 +4,8 @@
 <br>
 <br>
 <br>
-<br>
 🌠 I enjoy exploring new technologies and trying out different programming languages, so expect here to find a mix of personal projects, university assignments, and other experiments.
+<br>
 <br>
 <br>
 <br>
