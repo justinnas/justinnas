@@ -1,6 +1,6 @@
-hello, I'm justinnas
+🌌 Hello, I'm Justinas. Program Systems student at Kaunas University of Technology. 
+I'm passionate about software development, web development, graphic design, and more.
 
-<!---
-justinnas/justinnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌠 I enjoy exploring new technologies and trying out different programming languages, so expect here to find a mix of personal projects, university assignments, and other experiments.
+
+🛰️ Learn more about me and my work at [t7.lt]((https://t7.lt)
