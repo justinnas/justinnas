@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
-🛰️ Learn more about me and my work at <a href="https://t7.lt">t7.lt</a>
+<!--🛰️ Learn more about me and my work at <a href="https://t7.lt">t7.lt</a>-->
 
 
 
