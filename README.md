@@ -5,11 +5,6 @@
 🚀 Hello, I'm Justinas. Program Systems student at Kaunas University of Technology. I'm passionate about software development, web development, graphic design, and more.
 <br>
 <br>
-🌠 I enjoy exploring new technologies and trying out different programming languages, so expect here to find a mix of personal projects, university assignments, and other experiments.
+🌠 I enjoy exploring new technologies and trying out different programming languages, so here you will find a mix of personal projects, university assignments, and other experiments.
 <br>
 <br>
-<br>
-<!--🛰️ Learn more about me and my work at <a href="https://t7.lt">t7.lt</a>-->
-
-
-
