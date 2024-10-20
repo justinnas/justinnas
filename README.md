@@ -26,7 +26,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-🚀 Recent Software I Made: <br>
+🚀 My Latest Software Releases: <br>
 🔋 [StarTray Battery](https://github.com/justinnas/StarTray-Battery) | 
 ✨ [StarTray Temperature](https://github.com/justinnas/StarTray-Temperature) | 
 🎨 [StarHue Color Picker](https://github.com/justinnas/StarHue-Color-Picker)
