@@ -2,10 +2,10 @@
 <!--<img align="right" src=https://github.com/justinnas/justinnas/assets/156369263/a9c2a14c-5146-4e5c-82a8-1398b0d97542  width="250">-->
 
 <br>
-🚀 Hello, I'm Justinas. Program Systems student at Kaunas University of Technology. I'm passionate about software development, web development, graphic design, and more.
+🧑‍💻 Hello, I'm Justinas. Software Systems student at Kaunas University of Technology. I'm passionate about software development, web development, graphic design, and more.
 <br>
 <br>
-🌠 I enjoy exploring new technologies and trying out different programming languages, so here you will find a mix of personal projects, university assignments, and other experiments.
+🌠 I enjoy exploring new technologies and trying out different programming languages, so here you might find a mix of personal projects, university assignments, and other experiments.
 <br>
 <br>
 
@@ -26,3 +26,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
+🚀 Recent Software I Made: <br>
+🔋 [StarTray Battery](https://github.com/justinnas/StarTray-Battery) | 
+✨ [StarTray Temperature](https://github.com/justinnas/StarTray-Temperature) | 
+🎨 [StarHue Color Picker](https://github.com/justinnas/StarHue-Color-Picker)
