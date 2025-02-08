@@ -2,7 +2,7 @@
   <img src="https://github.com/justinnas/justinnas/blob/main/assets/Hi_Im_Justinas_Light.svg" alt="Hi, I'm Justinas" height="50">
 </div>
 
-> I'm a university student at Kaunas University of Technology with a strong interest in tech, as well as web development, software development, UI/UX design, graphic design, and much more! I enjoy exploring a wide range of development techniques and creating practical, user-friendly solutions, *combining both code and design*!
+I'm a university student at Kaunas University of Technology with a strong interest in tech, as well as web development, software development, UI/UX design, graphic design, and much more! I enjoy exploring a wide range of development techniques and creating practical, user-friendly solutions, *combining both code and design*!
 
 <br/>
 
