@@ -1,34 +1,19 @@
-<!--<img align="right" src="https://github.com/justinnas/justinnas/assets/156369263/f44de068-25b7-465f-95fb-69c6c38b0601" width="250">-->
-<!--<img align="right" src=https://github.com/justinnas/justinnas/assets/156369263/a9c2a14c-5146-4e5c-82a8-1398b0d97542  width="250">-->
+<div>
+  <img src="https://github.com/justinnas/justinnas/blob/main/assets/Hi_Im_Justinas_Light.svg" alt="Hi, I'm Justinas" height="50">
+</div>
 
-<br>
-🧑‍💻 Hello, I'm Justinas. Software Systems student at Kaunas University of Technology. I'm passionate about software development, web development, graphic design, and more.
-<br>
-<br>
-🌠 I enjoy exploring new technologies and trying out different programming languages, so here you might find a mix of personal projects, university assignments, and other experiments.
-<br>
-<br>
+> I'm a university student at Kaunas University of Technology with a strong interest in tech, as well as web development, software development, UI/UX design, graphic design, and much more! I enjoy exploring a wide range of development techniques and creating practical, user-friendly solutions, *combining both code and design*!
 
-<!--
-📋Languages I've worked with: <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br/>
 
-📚Frameworks I've worked with: <br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
--->
+<div>
+  <a href="https://github.com/stars/justinnas/lists/software">
+    <img src="https://github.com/justinnas/justinnas/blob/main/assets/Justinas_Software_Releases.svg" alt="Software Releases" height="30">
+  </a>
+</div>
 
-🚀 My Latest Software Releases: <br>
-🔋 [StarTray Battery](https://github.com/justinnas/StarTray-Battery) | 
-✨ [StarTray Temperature](https://github.com/justinnas/StarTray-Temperature) | 
-🎨 [StarHue Color Picker](https://github.com/justinnas/StarHue-Color-Picker)
+<div>
+  <a href="https://github.com/stars/justinnas/lists/projects">
+    <img src="https://github.com/justinnas/justinnas/blob/main/assets/Justinas_Other_Projects.svg" alt="Other Projects" height="30">
+  </a>
+</div>
