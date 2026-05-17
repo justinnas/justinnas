@@ -1,21 +1,32 @@
-<!-- <img width="1586" height="282" alt="Main side (2)" src="https://github.com/user-attachments/assets/b961a962-bd37-40b0-8ec5-67dc39297c02" />
-<img width="1586" height="282" alt="Main side (3)" src="https://github.com/user-attachments/assets/50e85040-a7fb-476f-a727-21b070687026" />
-<img width="1586" height="291" alt="BannerMain" src="https://github.com/user-attachments/assets/a137dcdb-89f7-45b3-a424-b1d8ff4971db" /> -->
-
+<!-- Main (Light mode) -->
 <div>
-  <img alt="Justinas" src="https://github.com/user-attachments/assets/633d3215-c42d-466a-baa0-d9ea706547fc" />
+  <a href="https://github.com/justinnas#gh-light-mode-only">
+    <img alt="Justinas" src="https://github.com/justinnas/justinnas/blob/main/assets/justinnas_v2/light_main.png" />
+  </a>
+</div>
+
+<!-- Main (Dark mode) -->
+<div>
+  <a href="https://github.com/stars/justinnas#gh-dark-mode-only">
+    <img alt="Justinas" src="https://github.com/justinnas/justinnas/blob/main/assets/justinnas_v2/dark_main.png" />
+  </a>
 </div>
 
 <br/>
 
-<div>
-  <a href="https://github.com/stars/justinnas/lists/software">
-    <img src="https://github.com/justinnas/justinnas/blob/main/assets/Justinas_Software_Releases.svg" alt="Software Releases" height="25">
+<!-- Buttons -->
+<div style="display:flex">
+  <a href="https://github.com/stars/justinnas/lists/software#gh-dark-mode-only" >
+    <img src="https://github.com/justinnas/justinnas/blob/main/assets/justinnas_v2/dark_software_button.svg" alt="Software Releases" height="42">
   </a>
-</div>
-
-<div>
-  <a href="https://github.com/stars/justinnas/lists/projects">
-    <img src="https://github.com/justinnas/justinnas/blob/main/assets/Justinas_Other_Projects.svg" alt="Other Projects" height="25">
+  <a href="https://github.com/stars/justinnas/lists/software#gh-light-mode-only" >
+    <img src="https://github.com/justinnas/justinnas/blob/main/assets/justinnas_v2/light_software_button.svg" alt="Software Releases" height="42">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/stars/justinnas/lists/projects#gh-dark-mode-only">
+    <img src="https://github.com/justinnas/justinnas/blob/main/assets/justinnas_v2/dark_other_button.svg#gh-dark-mode-only" alt="Other Projects" height="42">
+  </a>
+  <a href="https://github.com/stars/justinnas/lists/projects#gh-light-mode-only">
+    <img src="https://github.com/justinnas/justinnas/blob/main/assets/justinnas_v2/light_other_button.svg#gh-light-mode-only" alt="Other Projects" height="42">
   </a>
 </div>
