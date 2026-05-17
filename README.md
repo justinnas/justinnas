@@ -1,9 +1,6 @@
 <div>
-  <img src="https://github.com/justinnas/justinnas/blob/main/assets/Hi_Im_Justinas_Light.svg#gh-dark-mode-only" alt="Hi, I'm Justinas" height="35">
-  <img src="https://github.com/justinnas/justinnas/blob/main/assets/Hi_Im_Justinas_Dark.svg#gh-light-mode-only" alt="Hi, I'm Justinas" height="35">
+  <img alt="Main" src="https://github.com/user-attachments/assets/ddb475eb-b807-455d-a5d3-0a4229d2a955#gh-dark-mode-only" />
 </div>
-
-I'm a Software Systems student at Kaunas University of Technology with a strong interest in tech, web development, software development, UI/UX design, graphic design, and much more! I enjoy exploring a wide range of development techniques and creating solutions that *combine both code and design*.
 
 <br/>
 
