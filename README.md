@@ -3,7 +3,7 @@
 <img width="1586" height="291" alt="BannerMain" src="https://github.com/user-attachments/assets/a137dcdb-89f7-45b3-a424-b1d8ff4971db" /> -->
 
 <div>
-  <img alt="Justinas" src="https://github.com/user-attachments/assets/633d3215-c42d-466a-baa0-d9ea706547fc#gh-dark-mode-only" />
+  <img alt="Justinas" src="https://github.com/user-attachments/assets/633d3215-c42d-466a-baa0-d9ea706547fc" />
 </div>
 
 <br/>
